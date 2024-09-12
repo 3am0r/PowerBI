@@ -3,7 +3,7 @@ Cookies Analysis
 
 # 🍪 Cookies Shop Sales Report - Data Analysis with Power BI
 
-![Demo GIF](./assets/cookies_shop_demo.gif)
+![Demo GIF](Project.gif)
 
 Welcome to the **Cookies Shop Sales Report** project! This Power BI report provides deep insights into the sales performance of a Cookies Shop, including customer behavior, product performance, and a detailed model of sales data.
 
@@ -39,7 +39,7 @@ This report was created using **Power BI** and covers data analysis of sales for
 ### 1. Customer Overview
 Gain insights into customer demographics, purchase history, and customer segments.
 
-![Customer Overview](./assets/customer_overview.png)
+![Customer Overview](Customers.png)
 
 Key metrics include:
 - **Total Customers**
@@ -52,7 +52,7 @@ Key metrics include:
 ### 2. Product Overview
 Analyze the performance of various cookie products.
 
-![Product Overview](./assets/product_overview.png)
+![Product Overview](Overview.png)
 
 Key metrics include:
 - **Total Revenue by Product**
@@ -65,7 +65,7 @@ Key metrics include:
 ### 3. Sales Model Overview
 Explore the relationship between various factors such as time, location, and product type to understand sales trends.
 
-![Sales Model Overview](./assets/sales_model_overview.png)
+![Sales Model Overview](Order_Details.png)
 
 Key metrics include:
 - **Quarterly Sales Trends**
