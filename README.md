@@ -93,12 +93,6 @@ Key metrics include:
 
 ---
 
-## 🎥 Demo GIF
-
-![Demo GIF](./assets/cookies_shop_demo.gif)
-
----
-
 ## 📂 Data Model
 
 The data model consists of three main tables:
