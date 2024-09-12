@@ -75,16 +75,6 @@ Key metrics include:
 
 ---
 
-## 📸 Screenshots
-
-| Report View | Screenshot |
-|-------------|------------|
-| **Customer Overview** | ![Customer Overview Screenshot](./assets/customer_overview_screenshot.png) |
-| **Product Overview**  | ![Product Overview Screenshot](./assets/product_overview_screenshot.png) |
-| **Sales Model Overview** | ![Sales Model Overview Screenshot](./assets/sales_model_overview_screenshot.png) |
-
----
-
 ## 🛠️ How to Use
 
 1. **Download the report** from this repository.
