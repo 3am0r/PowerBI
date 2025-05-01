@@ -1,11 +1,11 @@
 # PowerBI
-Cookies Analysis
+Customer Purchase & Sales Performance Dashboard
 
-# 🍪 Cookies Shop Sales Report - Data Analysis with Power BI
+# 🍪 Customer Purchase & Sales Performance Dashboard - Data Analysis with Power BI
 
 ![Demo GIF](Project.gif)
 
-Welcome to the **Cookies Shop Sales Report** project! This Power BI report provides deep insights into the sales performance of a Cookies Shop, including customer behavior, product performance, and a detailed model of sales data.
+Welcome to the **Customer Purchase & Sales Performance Dashboard** project! This Power BI report provides deep insights into the sales performance of a Cookies Shop, including customer behavior, product performance, and a detailed model of sales data.
 
 ## 🗂️ Table of Contents
 - [Project Overview](#project-overview)
